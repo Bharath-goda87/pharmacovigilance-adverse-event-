@@ -1,39 +1,49 @@
 Pharmacovigilance Adverse Event Management
 
+Project Type: Educational Project
+Domain: Pharmacovigilance | Drug Safety | Clinical Research
+Focus: Adverse Event Management and ICSR Case Processing
+
 Project Overview
 
-This project demonstrates the fundamental processes involved in Pharmacovigilance (PV), focusing on the identification, documentation, assessment, and management of Adverse Events (AEs) associated with medicinal products.
+Developed an educational pharmacovigilance project demonstrating the end-to-end workflow of adverse event identification, Individual Case Safety Report (ICSR) documentation, case validation and safety assessment.
 
-It simulates the workflow followed by pharmacovigilance professionals when processing Individual Case Safety Reports (ICSRs), from receiving adverse event information to reviewing case details and assessing drug-event relationships.
+The project focuses on applying fundamental pharmacovigilance principles to simulated adverse event cases, including seriousness, expectedness and causality assessments, with an emphasis on structured documentation and patient safety.
 
-The project aims to develop practical knowledge of drug safety monitoring, adverse event documentation, case processing, and patient safety principles used in the pharmaceutical industry.
-
-Key Activities
-
-- **Adverse Event Identification:** Identify and document suspected adverse events reported by patients or healthcare professionals.
-- **ICSR Case Documentation:** Record relevant patient, reporter, medicinal product, and adverse event information.
-- **Case Validity Assessment:** Review the four minimum criteria required for a valid ICSR.
-- **Seriousness Assessment:** Evaluate adverse events against seriousness criteria, including death, life-threatening events, hospitalization, disability, and congenital anomalies.
-- **Expectedness Assessment:** Review whether the reported adverse event is consistent with the applicable product safety information.
-- **Causality Assessment:** Understand the relationship between a suspected medicinal product and an adverse event using the Naranjo Algorithm.
-- **Dechallenge and Rechallenge Evaluation:** Review patient outcomes after discontinuation and re-administration of a suspected medicine.
-- **Case Review and Documentation:** Organize case information and maintain accurate pharmacovigilance records.
-
-Learning Objectives
-
-- Understand the fundamentals of pharmacovigilance and drug safety.
-- Develop knowledge of ICSR intake and case-processing workflows.
-- Apply basic adverse event seriousness and expectedness assessment principles.
-- Understand structured causality assessment using the Naranjo Algorithm.
-- Recognize the importance of accurate documentation and patient safety.
-- Understand the role of pharmacovigilance in monitoring the safety of medicinal products.
-
+Key Responsibilities and Activities
+Identified and documented suspected adverse events associated with medicinal products.
+Collected and organised patient, reporter, medicinal product and adverse event information.
+Assessed ICSR validity using the four minimum criteria: identifiable patient, identifiable reporter, suspected medicinal product and suspected adverse event.
+Evaluated adverse event seriousness according to established regulatory criteria.
+Assessed event expectedness against applicable Reference Safety Information (RSI).
+Performed educational causality assessments using the Naranjo Algorithm.
+Evaluated dechallenge and rechallenge information to understand the possible relationship between a medicinal product and an adverse event.
+Reviewed case details, identified missing information and maintained structured case documentation.
+Project Workflow
+Adverse Event Identification
+ICSR Data Collection and Documentation
+ICSR Validity Assessment
+Seriousness Assessment
+Expectedness Assessment
+Causality Assessment
+Dechallenge and Rechallenge Evaluation
+Case Review and Final Documentation
+Tools and Regulatory Concepts
+Pharmacovigilance: Drug safety monitoring and adverse event management.
+ICSR: Individual Case Safety Report.
+MedDRA: Standardised medical terminology for coding adverse events.
+Naranjo Algorithm: Structured tool for assessing the probability of adverse drug reactions.
+GVP: Good Pharmacovigilance Practices.
+Reference Safety Information (RSI): Information used to evaluate the expectedness of adverse events.
+Learning Outcomes
+Understanding of pharmacovigilance principles and drug safety processes.
+Practical knowledge of ICSR intake and case-processing workflows.
+Understanding of regulatory seriousness and expectedness criteria.
+Application of the Naranjo Algorithm for basic causality assessment.
+Knowledge of dechallenge and rechallenge evaluation.
+Development of structured case documentation and case review skills.
 Project Scope
 
-This is an educational pharmacovigilance project based on simulated case scenarios. It demonstrates basic drug safety assessment and ICSR documentation concepts and does not represent validated pharmaceutical industry case processing.
+This project is based entirely on fictional and simulated adverse event scenarios. It is intended for educational purposes and demonstrates fundamental pharmacovigilance workflows rather than validated industry-level case processing or regulatory reporting.
 
-Disclaimer
-
-All patient cases and information used in this project are fictional or simulated for educational purposes. This project is not intended for real patient safety reporting, clinical decision-making, or regulatory submission. 
-
-
+Disclaimer: All patient information and clinical scenarios are fictional. This project is not intended for clinical decision-making, real-world safety reporting or regulatory submission.
